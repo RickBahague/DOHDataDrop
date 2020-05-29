@@ -15,6 +15,7 @@ Case Information,RegionPSGC,Philippine Standard Geographic Code of Region of Res
 Case Information,ProvPSGC,Philippine Standard Geographic Code of Province of Residence,Text,,,
 Case Information,MunCityPSGC,Philippine Standard Geographic Code of Municipality or City of Residence,Text,,,
 Case Information,HealthStatus,"Known current health status of patient (asymptomatic, mild, severe, critical, died, recovered)",Test,,,
+Case Information,Quarantined,"Ever been home quarantined, not necessarily currently in home quarantine",Binary,,,
 DOH Data Collect - Daily Report,updateddate,,Datetime,,,
 DOH Data Collect - Daily Report,addeddate,,Datetime,,,
 DOH Data Collect - Daily Report,hfhudcode,Health Facility Code. Unique identifier for the health facility based on the National Health Facility Registry,Text,,,
