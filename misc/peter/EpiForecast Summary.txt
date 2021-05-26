@@ -1,0 +1,23 @@
+EpiForecast via 
+Peter Cayton, the Stats Guy
+@PJACaytonPhD
+
+4:24 PM · May 26, 2021·Twitter Web App
+
+The predicted no. of new reported cases for May 27, 2021 is 4,452 (90% CI: 3,033 -- 6,187). 
+
+The methods are based on http://epiforecasts.io/covid/methods.html, using the most recent 180 days of data available as of May 23, 2021, and adjusted to DOH reporting delays.
+
+----
+4:24 PM · May 26, 2021·Twitter Web App
+
+The previous predicted no. of new reported cases for May 26, 2021 is 3,792 (90% CI: 2,644 -- 5,171). Current no. is higher than predicted and the 90% upper interval. It is a miss.
+
+I believe this week the forecasts will underestimate the reported cases.
+
+----
+5:06 PM · May 25, 2021·Twitter Web App
+
+The previous predicted no. of new reported cases for May 25, 2021 is 3,825 (90% CI: 2,719 -- 5,130). Current no. is higher than predicted but within confidence.
+
+The predicted no. of new reported cases for May 26, 2021 is 3,792 (90% CI: 2,644 -- 5,171).
